@@ -1,0 +1,64 @@
+
+img{
+    border-radius: 80%;
+    width: 100px;
+    margin-left: 30%;
+}
+h1{
+    margin-left: 5%;
+    color: white;
+}
+h2{
+    margin-left: 20%;
+    color: white;
+    
+}
+h5{
+    color: black;
+    text-align: center;
+}
+hr{
+    
+    margin-left: 4%;
+    margin-right: 100%;
+    border-right: 5px solid black;
+    height: 720px;
+
+}
+.dropdown{
+   margin-left: 30%;
+   color: white;
+   font-size: larger;
+}
+.form{
+    background-color: purple;
+    margin-right: 60%;
+    padding-bottom: 20%;
+}
+
+a{
+    text-decoration: none;
+}
+select{
+    background-color: purple;
+}
+.container2{
+            display: flex;
+            flex-direction: row;
+            flex: 33.33%;
+}
+.co1{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+}
+.co2{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+}
+.co3{
+    background-color: greenyellow;
+    width: 200px;
+    height: 100px;
+}
